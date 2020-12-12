@@ -4,11 +4,11 @@ Implementation of Machine Learning algorithms
 
 - [x] Univariate Linear Regression
 - [x] Multivariate Linear Regression
-- [] Logistic regression
-- [] K-Nearest Neighbors
-- [] Support Vector Machines
-- [] Gaussian Naive Bayes
-- [] Decision Tree
-- [] Random Forest
+- [ ] Logistic regression
+- [ ] K-Nearest Neighbors
+- [ ] Support Vector Machines
+- [ ] Gaussian Naive Bayes
+- [ ] Decision Tree
+- [ ] Random Forest
 
 ---
