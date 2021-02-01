@@ -1,10 +1,10 @@
-Implementation of Machine Learning algorithms 
+Implementation of Simple Machine Learning algorithms 
 
 -- in progress --
 
 - [x] Univariate Linear Regression
 - [x] Multivariate Linear Regression
-- [x] Logistic regression
+- [ ] Logistic regression
 - [x] K-Nearest Neighbors
 - [ ] Support Vector Machines
 - [ ] Gaussian Naive Bayes
