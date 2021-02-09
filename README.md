@@ -12,3 +12,7 @@ Implementation of Simple Machine Learning algorithms
 - [ ] Random Forest
 
 ---
+
+## References: 
+
+1. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). New York: springer.
